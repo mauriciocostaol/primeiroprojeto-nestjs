@@ -11,7 +11,7 @@ $ npm install
 
 ou
 
-$ yarn add
+$ yarn 
 ```
 
 ## Executando a aplicação
